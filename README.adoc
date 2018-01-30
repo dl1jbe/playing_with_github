@@ -1,2 +1,5 @@
-# playing_with_github
-place for experiemnts with github features
+playing_with_github
+===================
+
+This is a place for some  experiemnts with github features.
+
