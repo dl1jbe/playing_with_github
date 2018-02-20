@@ -1,5 +1,4 @@
-playing_with_github
-===================
+= playing_with_github
 
 This is a place for some  experiments with github features.
 
